@@ -1,6 +1,3 @@
-server:
-  port: 6021
-
 spring:
   datasource:
     username: root
